@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "419882858187",
+    "firebase_url": "https://natureschool-75614.firebaseio.com",
+    "project_id": "natureschool-75614",
+    "storage_bucket": "natureschool-75614.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419882858187:android:d56bc5fb9bad55943ccd4e",
+        "android_client_info": {
+          "package_name": "in.school.nature"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419882858187-0gko87mdo8m0f762u8n1vqbid38u1nqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_ycygtTVv7DO1Ior4zuBVb-LJIyIhGSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419882858187-0gko87mdo8m0f762u8n1vqbid38u1nqj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
