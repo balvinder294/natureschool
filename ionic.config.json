@@ -1,0 +1,7 @@
+{
+  "name": "natureSchool",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

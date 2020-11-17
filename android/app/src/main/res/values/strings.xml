@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">natureSchool</string>
+    <string name="title_activity_main">natureSchool</string>
+    <string name="package_name">in.school.nature</string>
+    <string name="custom_url_scheme">in.school.nature</string>
+</resources>
